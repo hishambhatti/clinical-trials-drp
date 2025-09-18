@@ -40,6 +40,9 @@ The question of what sequential boundary to use depends on how willing you are t
 
 Given that there was already prior data, I understand why they chose OF. However, given the wealth of evidence before and after the trial confirming Beta-Blocker's effectiveness, I would have encouraged the researchers to use the Pocock method.
 
+## Tools
+R, Beamer
+
 ## Credits
 * Special thanks to Anna Neufeld for her guidance in this project. You rock!
 
